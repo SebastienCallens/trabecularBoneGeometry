@@ -9,3 +9,6 @@ This code takes the previously computed curvatures and computes joint propbabili
 
 ## computeRDF
 This code takes the previously computed curvatures and computes the radial distribution function of the mean curvature (see papers from Genau and Voorhees). The same can be done for the Gaussian curvature (or, potentially, for a different mesh metric). 
+
+## writePOLY
+This code writes the .POLY file of a mesh for analysis using Karambola, an open-source tool for computing the scalar and tensorial Minkowski functionals.
